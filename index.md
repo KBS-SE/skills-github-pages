@@ -1,9 +1,10 @@
 ---
-title: Welcome to my blog
+title: Welcome to Me ...
 ---
 ![KBS_SE](https://avatars.githubusercontent.com/u/7676746?v=4)
 # Kwabena Sapong
 ## Passionate Full Stack Software Engineer & Electrical Engineering Specialist
+
 
 ---
 
@@ -14,6 +15,7 @@ Hey there! I'm Kwabena Sapong, a dynamic professional who bridges the realms of 
 My journey started in the world of Electrical Engineering, where I managed power systems and led teams, honing my knack for tackling complex challenges. Transitioning into Full Stack Software Engineering, I specialize in crafting responsive web applications that prioritize user experience. Proficient in languages like C#, C, and JavaScript, and skilled in databases including SQL and NoSQL, I excel in creating solutions that seamlessly marry creativity and functionality.
 
 I'm excited to leverage my multifaceted skill set to catalyze technological leaps, infuse innovation, and engineer a future where creativity knows no bounds.
+
 
 ---
 
