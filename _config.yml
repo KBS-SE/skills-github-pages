@@ -4,3 +4,4 @@ author: KBS-SE
 description: "A little about me and my work"
 sass:
   sass_dir: _sass
+  style: compressed  # Set to "expanded" during development for human-readable CSS
