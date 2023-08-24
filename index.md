@@ -18,7 +18,7 @@ I'm excited to leverage my multifaceted skill set to catalyze technological leap
 ## Connect with Me
 Feel free to connect with me! You can reach me at [kwabenasapong@gmail.com](mailto:kwabenasapong@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kwabena-sapong-a2458749). Let spark innovation together and create something extraordinary! ⚡
 
-[Link to CSS]({{ site.baseurl }}/assets/css/style.css)
+<link rel="stylesheet" href="/assets/css/style.css">
 
 <p align="left"> <a href="https://www.github.com/kwabenasapong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/kwabena-sapong-a2458749/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
