@@ -2,3 +2,5 @@ theme: minima
 title: KBS' Hub
 author: KBS-SE
 description: "A little about me and my work"
+sass:
+  sass_dir: _sass
