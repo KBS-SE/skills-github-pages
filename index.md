@@ -1,6 +1,8 @@
 ---
 title: Welcome to Me ...
 ---
+[Link to CSS]({{ site.baseurl }}/assets/css/style.css)
+
 ![KBS_SE](https://avatars.githubusercontent.com/u/7676746?v=4)
 # Kwabena Sapong
 ## Passionate Full Stack Software Engineer & Electrical Engineering Specialist
